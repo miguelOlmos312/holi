@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyDatabaseFinalProject7B</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mi Proyecto Final</string>
+    <string name="nav_header_subtitle">Equipo: Los Otakus del Norte</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Principal</string>
+    <string name="menu_gallery">Agregar Clientes</string>
+    <string name="menu_slideshow">Buscar Clientes</string>
+    <string name="menu_listar">Listar Clientes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
