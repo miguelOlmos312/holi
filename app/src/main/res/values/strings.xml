@@ -14,4 +14,12 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="etCtClave">Tu Clave</string>
+    <string name="etCtNombre">Tu Nombre</string>
+    <string name="etCtDireccion">Tu Direccion</string>
+    <string name="etBtnBuscarFind">Buscar</string>
+    <string name="etBtnBuscarEdit">Editar</string>
+    <string name="etBtnBuscarBorrar">Borrar</string>
+    <string name="etBuscar">Consultar Cliente</string>
 </resources>
